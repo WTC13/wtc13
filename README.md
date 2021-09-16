@@ -29,7 +29,7 @@
   
 ![Snake animation](https://github.com/wtc13/wtc13/blob/output/github-contribution-grid-snake.svg)
  
-  
+ 
 </div>
  
  
