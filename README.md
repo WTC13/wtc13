@@ -22,10 +22,8 @@
   <img align = "center" alt = "wtc-Csharp" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
  <div> 
-  <a href="https://www.youtube.com/channel/UCyJi_SjYaYfuxW_A2MoC09w" target="_blank"> <img src ="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target ="_blank "> </a>
   <a href="https://www.instagram.com/timotao13/" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank "> </a>
-<a href="https://discord.gg/tUK3rTY" target ="_blank"> <img alt="Discord" src="https://img.shields.io/discord/710100458357784577?label=Discord&logo=Discord&style=for-the-badge" target = "_blank"> </a>
-<a href = "mailto: wendell.timoteoc@gmail.com " target ="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"> </a> 
+  <a href = "mailto: wendell.timoteoc@gmail.com " target ="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"> </a> 
   <a href="https://www.linkedin.com/in/wendell-timoteo-costa-161a0a1b2/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " target ="_blank "> </a> 
   
 ![Snake animation](https://github.com/wtc13/wtc13/blob/output/github-contribution-grid-snake.svg)
