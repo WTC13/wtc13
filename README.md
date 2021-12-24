@@ -24,7 +24,7 @@
  <div> 
   <a href="https://www.instagram.com/timotao13/" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"> </a>
   <a href = "mailto: wendell.timoteoc@gmail.com " target ="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"> </a> 
-  <a href="https://www.linkedin.com/in/wendell-timoteo-costa-161a0a1b2/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " target ="_blank "> </a> 
+  <a href="https://www.linkedin.com/in/wendell-costa-161a0a1b2/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " target ="_blank "> </a> 
   
 ![Snake animation](https://github.com/wtc13/wtc13/blob/output/github-contribution-grid-snake.svg)
  
