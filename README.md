@@ -6,6 +6,9 @@
 - 📫 Encontre-me: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
 - 😄 Trilingue - atualmente estudando Italiano!
 
+![61a9dca50cf61c2f107e1349aaf7d2d3](https://user-images.githubusercontent.com/89882056/161308662-74d67552-e353-4d73-99cf-08085622dfe2.gif)
+
+
  <div>
   <a href="https://github.com/wtc13">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=wtc13&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
