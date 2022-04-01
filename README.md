@@ -6,7 +6,8 @@
 - 📫 Encontre-me: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
 - 😄 Trilingue - atualmente estudando Italiano!
 
-![61a9dca50cf61c2f107e1349aaf7d2d3](https://user-images.githubusercontent.com/89882056/161308662-74d67552-e353-4d73-99cf-08085622dfe2.gif)
+![tumblr_inline_oui1s48yGW1qbjpiv_400](https://user-images.githubusercontent.com/89882056/161312979-f7fb8042-172b-4c29-8589-99a31a2990c8.gif)
+
 
 
  <div>
