@@ -5,13 +5,14 @@
 - 👯 Graduando em Sistemas de Informação.!
 - 📫 Encontre-me: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
 - 😄 Trilingue - atualmente estudando Italiano!
-- 
+
+ 
 
  <div>
   <a href="https://github.com/wtc13">
-   <img src="https://user-images.githubusercontent.com/89882056/161312979-f7fb8042-172b-4c29-8589-99a31a2990c8.gif" alt="Gif Sonic" width="100%" height="450" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wtc13&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtc13&layout=compact&langs_count=7&theme=merko"/>
+  <img src="" alt="Gif Sonic" width="100%" height="450" align="center">
 </div>
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "wtc-Python" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
