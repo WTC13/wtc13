@@ -2,7 +2,7 @@
 
 <img src="https://github.com/WTC13/wtc13/blob/main/9562.gif" alt="Gif Sonic" width="100" height="120" align="right">
   
-  
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtc13&color=orange" alt="Profile views" /> </p>
 - 💼 Looking for the first job!
 - :computer: Machine Learning and Web Developer
 - :mortar_board: Graduating in Information Systems.!
