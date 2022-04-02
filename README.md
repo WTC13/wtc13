@@ -3,11 +3,11 @@
 <img src="https://github.com/WTC13/wtc13/blob/main/9562.gif" alt="Gif Sonic" width="100" height="120" align="right">
   
   
-- 🔭 Looking for the first job!
-- 🌱 Machine Learning and Web Developer
-- 👯 Graduating in Information Systems.!
-- 📫 Find me: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
-- 😄 Trilingual - currently studying English!
+- 💼 Looking for the first job!
+- :computer: Machine Learning and Web Developer
+- :mortar_board: Graduating in Information Systems.!
+- :mailbox: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
+- :fr: - currently studying English!
 
 
  <div align = "center">
