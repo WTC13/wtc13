@@ -1,4 +1,4 @@
-## Hello Dev, I'm Wendell Costa better known as WC.
+## Hello Dev 😆, I'm Wendell Costa better known as WC.
 
 <img src="https://github.com/WTC13/wtc13/blob/main/9562.gif" alt="Gif Sonic" width="100" height="120" align="right">
   
