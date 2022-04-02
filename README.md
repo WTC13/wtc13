@@ -10,7 +10,7 @@
 - :fr: - currently studying English!
 
 
- <div align = "center">
+ <div>
   <a href="https://github.com/wtc13">
   <img height="350" width="100%" src="work.gif">
   <img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=wtc13&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
