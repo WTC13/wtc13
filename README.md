@@ -1,12 +1,13 @@
-## Opa sou Wendell Costa mais conhecido como WTC.
+## Oops, I'm Wendell Costa better known as WC.
 
 <img src="https://github.com/WTC13/wtc13/blob/main/9562.gif" alt="Gif Sonic" width="100" height="120" align="right">
   
-- 🔭 Em busca do primeiro emprego!
-- 🌱 Técnico em Desenvolvimento de Sistemas e Desenvolvedor Web!
-- 👯 Graduando em Sistemas de Informação.!
-- 📫 Encontre-me: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
-- 😄 Trilingue - atualmente estudando Italiano!
+  
+- 🔭 Looking for the first job!
+- 🌱 Machine Learning and Web Developer
+- 👯 Graduating in Information Systems.!
+- 📫 Find me: <a href = "https://wa.me/11937269362" target = "_blank">WhatsApp</a>
+- 😄 Trilingual - currently studying English!
 
 
  <div align = "center">
