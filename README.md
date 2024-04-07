@@ -30,8 +30,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
- 
-  <img align = "right" alt = "Gif Sonic" height = "150" style="border-radius:50px;" src="tumblr_ofl0p4MJBt1r0fu7go1_500.gif" alt="Gif Sonic">
 
   <br><br>
   
