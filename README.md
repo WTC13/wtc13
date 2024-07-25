@@ -5,7 +5,7 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtc13&color=orange" alt="Profile views" /> </p>
 - 💼 Looking for the first job in programming!
 - :computer: Front end Developer
-- :mortar_board: Graduating in Information Systems.!
+- :mortar_board: Graduating in Information Systems.
 - :mailbox: <a href = "https://linktr.ee/wtc13" target = "_blank">My Contacts</a>
 - :fr: - currently studying English!
  
