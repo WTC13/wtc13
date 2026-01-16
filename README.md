@@ -54,20 +54,17 @@
    ## 🗨️ &nbsp;Social Links
   
   
-    <p align="left" style="background:yellow">
-      <a href="https://codepen.io/wtc13" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=codepen" alt="codepen"/>
-      </a>
-      <a href="https://twitter.com/wt_black" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=Gmail" alt="twitter"/>  
-      </a>
-      <a href="https://www.linkedin.com/in/wendell-costa-161a0a1b2/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-      </a>
-      <a href="https://www.instagram.com/wt_costa/" target="_blank">
-       <img align="center" src="https://img.shields.io/badge/-wtc13-05122A?style=flat&logo=instagram" alt="instagram"/>
-      </a>
-    </p>
+  <div align="left">
+    <a href="https://www.linkedin.com/in/wendell-tim%C3%B3teo-161a0a1b2/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="wendell.timoteoc@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+    <a href="https://www.instagram.com/timocode.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
+  </div>
 
   <br><br>
   
@@ -75,40 +72,6 @@
   
   ![Snake animation](https://github.com/wtc13/wtc13/blob/output/github-contribution-grid-snake.svg)
 
-
- 
- 
- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wtc13.wtc13&"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wendell-tim%C3%B3teo-161a0a1b2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="wendell.timoteoc@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/timocode.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/wtc13/wtc13/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
