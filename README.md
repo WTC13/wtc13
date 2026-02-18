@@ -11,9 +11,6 @@
  
   <br><br>
   
-  <a href="https://github.com/wtc13">
-  <img height="350" width="100%" src="work.gif">
-  
   ## ⚙️ &nbsp;GitHub Analytics
   
   <div align="center">
