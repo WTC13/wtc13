@@ -14,8 +14,8 @@
   ## ⚙️ &nbsp;GitHub Analytics
   
   <div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wtc13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wtc13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wtc13&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanthuirMaia&layout=compact&langs_count=7&theme=merko"/>
   </div>
 
   <br><br>
